@@ -24,3 +24,5 @@
 **Для наглядности алгоритма представлена блок-схема:**
 
 ![Изображение](https://raw.githubusercontent.com/ElvinaGu/ControlWork1/36e0d9024a6c00b5654dbb88f93f6808812ea11a/Блок-схема%20алгоритма.drawio.png)
+
+[Код, выполняющий задачу](https://raw.githubusercontent.com/ElvinaGu/ControlWork1/main/Work/Program.cs)
